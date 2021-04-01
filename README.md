@@ -4,6 +4,17 @@ Solve the exercises in the notebook `A2.ipynb`. Please read the guidance below c
 
 ---
 
+### Question 3.4: new initial guesses
+
+Please ignore the initial guesses given in the last code cell for question **3.4**, and instead use the following:
+
+```python
+# Initial conditions
+uv0 = np.array([[0.9, 0.6], [0., 0.4], [-1.7, -0.3]])
+```
+
+---
+
 ### Presentation, plots, and code comments
 
 - Your code should be **well-commented**, with a comment explaining each step of your code. This is to test your understanding of the code you have written.
